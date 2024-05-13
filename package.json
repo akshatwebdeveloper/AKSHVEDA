@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "main": "index.html",
+  "name": "swiper-autoplay-progress",
+  "scripts": {
+    "build": "echo This is a static template, there is no bundler or bundling involved!",
+    "start": "serve"
+  },
+  "tags": [
+    "swiper"
+  ],
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "js": "^0.1.0",
+    "swiper": "^11.0.6"
+  }
+}
